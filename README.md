@@ -1,1 +1,3 @@
-A simple command-line application.
+#Lbsim-Counter
+
+A simple counter application made in flutter. 
